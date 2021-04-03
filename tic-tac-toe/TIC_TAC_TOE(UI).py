@@ -4,8 +4,6 @@ pygame.init()
 
 win = pygame.display.set_mode((450, 550))
 pygame.display.set_caption('TIC_TAC_TOE')
-icon = pygame.image.load('gameicon.png')
-pygame.display.set_icon(icon)
 
 white = (255, 255, 255)
 black = (0, 0, 0)
